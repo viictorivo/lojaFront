@@ -7,4 +7,8 @@ app.get("/",(req, res) => {
     res.render("index");
 })
 
+app.get("/registrar", (req, res) =>{
+    res.render("registration");
+})
+
 app.listen( 8080, () => {});

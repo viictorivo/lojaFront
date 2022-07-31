@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/viictorivo/lojaFront/issues"
   },
-  "homepage": "https://github.com/viictorivo/lojaFront#readme"
+  "homepage": "https://github.com/viictorivo/lojaFront#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
 }
